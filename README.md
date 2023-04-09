@@ -1,33 +1,33 @@
 # Hello! I'm Daniel 👋
 
-## Sobre mí 🙋‍♂️
+## About me 🙋‍♂️
 
-¡Hola! Soy Daniel, psicólogo general sanitario. He completado el grado en Psicología de 4 años y un máster de Psicología General Sanitaria de 2 años, ambos en la Universidad de Huelva. Actualmente, estoy ampliando mis habilidades y conocimientos aprendiendo programación de forma autodidacta en Internet, con el objetivo de combinar mis habilidades en psicología con la programación para desarrollar soluciones tecnológicas innovadoras.
+Hello! I am Daniel, a licensed general health psychologist. I have completed a 4-year Bachelor's degree in Psychology and a 2-year Master's degree in General Health Psychology, both from the University of Huelva. Currently, I am expanding my skills and knowledge by self-learning programming on the Internet, with the goal of combining my skills in psychology with programming to develop innovative technological solutions.
 
-## Habilidades ✔
+## Skills ✔
 
-- Diseño e implementación de intervenciones terapéuticas
-- Conocimientos en técnicas de modificación de conducta
-- Organización y gestión de grupos
-- Habilidades de comunicación efectiva
+- Design and implementation of therapeutic interventions
+- Knowledge in behavior modification techniques
+- Organization and management of groups
+- Effective communication skills
 
-## Objetivos 🎯
+## Objectives🎯
 
-Actualmente, estoy ampliando mis habilidades en programación, ya que es un campo que siempre me ha apasionado. Me he propuesto realizar un FP de Desarrollo de Aplicaciones Multimedias. Mi objetivo es combinar mis conocimientos en psicología con la tecnología para desarrollar soluciones innovadoras que beneficien a las personas con necesidades psicológicas y emocionales en el campo de las aplicaciones multimedias.
+Currently, I am expanding my programming skills, as it is a field that has always fascinated me. My goal is to complete a Vocational Training program in Multimedia Application Development. My objective is to combine my knowledge in psychology with technology to develop innovative solutions that benefit individuals with psychological and emotional needs in the field of multimedia applications.
 
-## Educación 🧠
+## Education 🧠
 
-- Máster en Psicología General Sanitaria - Universidad de Huelva - 2022
-- Grado en Psicología - Universidad de Huelva - 2020
+- Master's Degree in General Health Psychology - University of Huelva - 2022
+- Degree in Psychology - University of Huelva - 2020
 
-## Experiencia 🤓
+## Experience 🤓
 
-- Utilicé habilidades de evaluación y diagnóstico psicológico para comprender las necesidades y problemas de los menores con TDAH y autismo, lo que me permitió diseñar e implementar intervenciones terapéuticas individualizadas.
-- Desarrollé habilidades de comunicación efectiva para establecer una relación terapéutica con los pacientes y sus familias, y trabajar en estrecha colaboración con otros profesionales de la salud para proporcionar un enfoque completo en el cuidado de los pacientes.
-- Demostré habilidades en la organización y gestión de grupos, lo que me permitió trabajar con pacientes en entornos grupales, facilitando la interacción y el apoyo mutuo entre los participantes.
+- I used assessment skills and psychological diagnosis to understand the needs and problems of children with ADHD and autism, which allowed me to design and implement individualized therapeutic interventions.
+- Developed effective communication skills to establish a therapeutic relationship with patients and their families, and work closely with other healthcare professionals to provide a comprehensive approach to patient care.
+- I demonstrated skills in group organization and management, which allowed me to work with patients in group settings, facilitating interaction and mutual support among participants.
 
-## Contacto ✉
+## Contac✉
 
-Me puedes encontrar en: 
+You can find me at:
 
 <img src="https://github.com/danimg0/danimg0/blob/main/images/logo-linkedin-2011.png" alt="Linkedin" width="100">
